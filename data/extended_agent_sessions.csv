@@ -1,0 +1,4 @@
+session_id,role,message_type,content,timestamp
+S3,planner,instruction,Define analysis tasks,2025-09-28T18:34:16.823498+00:00
+S3,analyst,tool_call,query:extract_entities,2025-09-28T18:34:16.823498+00:00
+S3,writer,draft,Summarize extracted entities,2025-09-28T18:34:16.823498+00:00
