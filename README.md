@@ -20,9 +20,10 @@ scripts/
 
 ## Getting Started
 
-1. Launch your preferred Jupyter environment (e.g., VS Code, JupyterLab, or `jupyter notebook`).
-2. Begin with `notebooks/01_introduction.ipynb` and work through the sequence.
-3. Use the CSV data and helper script as optional extensions for hands-on experiments.
+1. Export your OpenAI API token as `OPENAI_API_KEY` (or have it ready to provide when prompted).
+2. Launch your preferred Jupyter environment (e.g., VS Code, JupyterLab, or `jupyter notebook`).
+3. Begin with `notebooks/01_introduction.ipynb` and work through the sequence.
+4. Use the CSV data and helper script as optional extensions for hands-on experiments.
 
 ## Extending the Materials
 
