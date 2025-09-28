@@ -1,0 +1,5 @@
+session_id,role,message_type,content
+S1,planner,system,Establishing project goals
+S1,researcher,tool_call,Searching academic database for references
+S1,writer,response,Outlined initial summary draft
+S2,evaluator,feedback,Clarify constraints on resource usage
